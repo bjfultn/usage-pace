@@ -1,0 +1,5 @@
+{
+  "name": "usage-pace",
+  "owner": { "name": "bjfultn" },
+  "plugins": [{ "name": "usage-pace", "source": "./" }]
+}

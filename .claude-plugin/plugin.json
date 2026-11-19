@@ -1,0 +1,6 @@
+{
+  "name": "usage-pace",
+  "version": "0.1.0",
+  "description": "Compact usage bars for the 5-hour, weekly and model-specific (Fable) limits, each with a pacing marker.",
+  "types": "./types/index.d.ts"
+}
